@@ -1,0 +1,31 @@
+{
+  "name": "FullGrown Next (preview)",
+  "short_name": "FG Next",
+  "description": "Plan a garden that actually works: see every plant at its full-grown size, drawn to scale on your own yard.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ede0c8",
+  "theme_color": "#ede0c8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
